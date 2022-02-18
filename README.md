@@ -19,15 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sandipandas1&show_icons=true&hide_border=true" />
- 
- ##  📞 CONNECT WITH ME
- <Br>
- <p align="center">
-	<a href="https://github.com/sandipandas1"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</P>
 
 ## 🛠️ My Skills
 <Br>
@@ -37,27 +28,27 @@ Here are some ideas to get you started:
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+  <a href="#" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <a href="#" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
+  <a href="#" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
   &emsp;
-   <a href="https://www.python.org" target="_blank">
+   <a href="#" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="#" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a>   
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="#" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
 </p>
@@ -79,3 +70,14 @@ Here are some ideas to get you started:
 |![](https://img.shields.io/badge/Web%20Development-red?style=for-the-badge)|![](https://img.shields.io/badge/Introduction%20to%20R%20-blue?style=for-the-badge)|![](https://img.shields.io/badge/Introduction%20to%20Deep%20Learning-green?style=for-the-badge)|![](https://img.shields.io/badge/AWS%20for%20Beginners%20-purple?style=for-the-badge)|
 |---|---|---|---|
 |![](https://img.shields.io/badge/Digital%20Skills%20User%20Experience%20-orange?style=for-the-badge)|![](https://img.shields.io/badge/Fundamentals%20Of%20Digital%20Marketing-purple?style=for-the-badge)|![](https://img.shields.io/badge/Data%20Analytics%20-red?style=for-the-badge)|![](https://img.shields.io/badge/Career%20Edge%20Young%20Professional%20-yellow?style=for-the-badge)|
+
+<Br>
+	
+<h2>  📞 CONNECT WITH ME </h2>
+ <Br>
+ <p align="center">
+	<a href="https://github.com/sandipandas1"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</P>
