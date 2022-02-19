@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
 <img align='right' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='350"'>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sandipandas1&show_icons=true&hide_border=true" />
+</div>
 
 ## 🛠️ My Skills
 <Br>
