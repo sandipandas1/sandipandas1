@@ -4,15 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=WEB%20DEVELOPER%20|%20SOFTWARE%20DEVELOPER%20;BLOGGER;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-
-
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-
-
-
-<img align='right' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='300'>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandipandas1&show_icons=true&hide_border=true" />
-
 <!--
 **sandipandas1/sandipandas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,6 +18,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
+
+
+<img align='right' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='300'>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandipandas1&show_icons=true&hide_border=true" />
+
+
 
 ## 🛠️ My Skills
 <Br>
