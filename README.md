@@ -63,6 +63,10 @@ Here are some ideas to get you started:
   <a href="#" target="_blank">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-orange.svg?style=plastic&logo=MySQL&logoColor=white">
   </a> 
+   &emsp;
+  <a href="#" target="_blank">
+    <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress%20-orange.svg?style=plastic&logo=Wordpress&logoColor=white">
+  </a>
 </p>
 <p align="center">
   &emsp;
