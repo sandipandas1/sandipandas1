@@ -4,10 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=WEB%20DEVELOPER%20|%20SOFTWARE%20DEVELOPER%20;BLOGGER;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-
-
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-
 <!--
 **sandipandas1/sandipandas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,12 +19,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sandipandas1&show_icons=true&hide_border=true" /><img align='right' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='300'>
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
+<div align="left">
+<h2 align="left" style="margin: 5px 10px;">⚡ Github Stats</h2> 
 
-
-## 🛠️ My Skills
+[![](https://github-readme-stats.vercel.app/api?username=sandipandas1&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/sandipandas1)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=sandipandas1&theme=material-palenight)](https://github.com/sandipandas1)
+</div>
+	
+<h2> 🛠️ My Skills </h2>
 <Br>
+	
 <p align="center"> 
   &emsp; 
   <a href="#" target="_blank"> 
@@ -76,10 +78,10 @@ Here are some ideas to get you started:
 <p align="center">
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+</p>
 
   
 <h2> 🏆 Certifications </h2>
-  
 <Br>
   
 |![](https://img.shields.io/badge/Web%20Development-red?style=for-the-badge)|![](https://img.shields.io/badge/Introduction%20to%20R%20-blue?style=for-the-badge)|![](https://img.shields.io/badge/Introduction%20to%20Deep%20Learning-green?style=for-the-badge)|![](https://img.shields.io/badge/AWS%20for%20Beginners%20-purple?style=for-the-badge)|
