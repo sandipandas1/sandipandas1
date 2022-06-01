@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 <div align="left">
 <h2 align="left" style="margin: 5px 10px;">⚡ Github Stats</h2> 
 
-[!(https://github-readme-stats.vercel.app/api?username=sandipandas1&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/sandipandas1)<a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450" height="330"></a>
+<a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="440" height="330"></a>
+<p align="right">[![](https://github-readme-stats.vercel.app/api?username=sandipandas1&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/sandipandas1)</p>
 </div>
 	
 <h2> 🛠️ My Skills </h2>
