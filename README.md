@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-<div align="left">
-<h2 align="left">⚡ Github Stats</h2> 
+<div>
+<h2>⚡ Github Stats</h2> 
 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=sandipandas1&show_icons=true&hide_border=true" />
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="420" height="330">
 </div>
 	
 <h2> 🛠️ My Skills </h2>
