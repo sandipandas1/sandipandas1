@@ -99,3 +99,7 @@ Here are some ideas to get you started:
 	<a href="https://www.instagram.com/iamsandipandas/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	 <a href="https://mobile.twitter.com/sipu_sandipan"><img src="https://img.shields.io/badge/twitter-%230A66C2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </P>
+<p align="center">
+<a href="https://codepen.io/sandipandas"><img src="https://img.shields.io/badge/CodePen-%23F7DF1E.svg?style=plastic" alt="CodePen"/></a>
+<a href="https://codepen.io/sandipandas"><img src="https://img.shields.io/badge/Replit-%20orange.svg?style=plastic" alt="Replit"/></a>
+</p>
