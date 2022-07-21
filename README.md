@@ -101,5 +101,5 @@ Here are some ideas to get you started:
 </P>
 <p align="center">
 <a href="https://codepen.io/sandipandas"><img src="https://img.shields.io/badge/CodePen-%23F7DF1E.svg?style=plastic" alt="CodePen"/></a>
-<a href="https://codepen.io/sandipandas"><img src="https://img.shields.io/badge/Replit-%20orange.svg?style=plastic" alt="Replit"/></a>
+<a href="https://replit.com/@SandipanDas01"><img src="https://img.shields.io/badge/Replit-%20orange.svg?style=plastic" alt="Replit"/></a>
 </p>
