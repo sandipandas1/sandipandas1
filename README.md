@@ -46,11 +46,11 @@ Here are some ideas to get you started:
    </a>
   &emsp;
   <a href="#" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=Java&logoColor=white">
   </a>
   &emsp;
    <a href="#" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%2314354C.svg?style=plastic&logo=PHP&logoColor=white">
   </a>
   &emsp; 
   <a href="#" target="_blank"> 
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 <h2> 🏆 Certifications </h2>
 <Br>
   
-|![](https://img.shields.io/badge/Web%20Development-red?style=for-the-badge)|![](https://img.shields.io/badge/Introduction%20to%20R%20-blue?style=for-the-badge)|![](https://img.shields.io/badge/Introduction%20to%20Deep%20Learning-green?style=for-the-badge)|![](https://img.shields.io/badge/AWS%20for%20Beginners%20-purple?style=for-the-badge)|
+|![](https://img.shields.io/badge/Web%20Development-red?style=for-the-badge)|![](https://img.shields.io/badge/Introduction%20to%20R%20-blue?style=for-the-badge)|![](https://img.shields.io/badge/Cloud%20Computing-green?style=for-the-badge)|![](https://img.shields.io/badge/AWS%20for%20Beginners%20-purple?style=for-the-badge)|
 |---|---|---|---|
 |![](https://img.shields.io/badge/Digital%20Skills%20User%20Experience%20-orange?style=for-the-badge)|![](https://img.shields.io/badge/Fundamentals%20Of%20Digital%20Marketing-purple?style=for-the-badge)|![](https://img.shields.io/badge/Data%20Analytics%20-red?style=for-the-badge)|![](https://img.shields.io/badge/Career%20Edge%20Young%20Professional%20-yellow?style=for-the-badge)|
 
