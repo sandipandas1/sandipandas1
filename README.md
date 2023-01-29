@@ -46,7 +46,7 @@ Here are some ideas to get you started:
    </a>
   &emsp;
   <a href="#" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=Java&logoColor=white">
+    <img alt="SQL Server" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=Java&logoColor=white">
   </a>
   &emsp;
    <a href="#" target="_blank">
