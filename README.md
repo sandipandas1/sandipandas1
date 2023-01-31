@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   </a> 
   &emsp;
   <a href="#" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+    <img alt="C#" src="https://img.shields.io/badge/C#%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
   <a href="#" target="_blank"> 
